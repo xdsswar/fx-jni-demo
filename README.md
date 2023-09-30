@@ -30,19 +30,24 @@ This demo serves as a simple example to demonstrate the library's capabilities.
 
 ### Screenshots
 
-![Image Alt Text](screenshots/1.png)
+1. Custom dark Stage (You can create your own Themes).
+![Custom dark Stage](screenshots/1.png)
 
+##
+2. Windows 11 Snap layout on maximize button hover.
+![Windows 11 Snap layout on maximize button hover](screenshots/2.png)
 
-![Image Alt Text](screenshots/2.png)
+##
+3. Native Tooltips.
+![Native Tooltips](screenshots/3.png)
 
-
-![Image Alt Text](screenshots/3.png)
-
-![Image Alt Text](screenshots/4.png)
+##
+4. Custom corner preference (No rounded corners).
+![Custom corner preference (No rounded corners)](screenshots/4.png)
 
 ***
 
-### fx-jni License
+## fx-jni License
 
 The "fx-jni" library is provided under the following terms:
 
