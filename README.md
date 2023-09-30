@@ -15,6 +15,7 @@ This demo serves as a simple example to demonstrate the library's capabilities.
 
 ### Features
 
+* Native behaviour & native tooltips.
 * Ability to set custom Stage styles.
 * Ability to 100% integrate themes, not only for the javafx nodes, also for the Stage itself.
 * Show/Hide Stage from the TaskBar.
@@ -27,7 +28,21 @@ This demo serves as a simple example to demonstrate the library's capabilities.
 
 ***
 
-# fx-jni License
+### Screenshots
+
+![Image Alt Text](screenshots/1.png)
+
+
+![Image Alt Text](screenshots/2.png)
+
+
+![Image Alt Text](screenshots/3.png)
+
+![Image Alt Text](screenshots/4.png)
+
+***
+
+### fx-jni License
 
 The "fx-jni" library is provided under the following terms:
 
